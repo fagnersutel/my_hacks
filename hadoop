@@ -1,0 +1,5 @@
+hadoop
+
+cd /usr/local/Cellar/hadoop/2.8.1/sbin/
+
+ ./start-all.sh 
