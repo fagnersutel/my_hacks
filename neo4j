@@ -1,0 +1,7 @@
+
+neo4j
+
+cd /usr/local/Cellar/neo4j/3.3.0/bin/
+
+
+neo4j start
